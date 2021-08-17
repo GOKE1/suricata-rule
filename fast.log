@@ -1,0 +1,93 @@
+08/12/2021-16:40:36.938620  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:39824 -> 175.213.35.39:80
+08/12/2021-16:40:37.335114  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:39824 -> 175.213.35.39:80
+08/12/2021-16:41:59.617427  [**] [1:10002:1] netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:51902 -> 44.234.232.238:80
+08/12/2021-16:42:30.764419  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:40052 -> 175.213.35.39:80
+08/12/2021-16:59:29.568071  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:40070 -> 175.213.35.39:80
+08/18/2021-01:16:53.596819  [**] [1:10007:1] HTTPS www.google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:43566 -> 142.250.207.100:443
+08/18/2021-01:16:54.860630  [**] [1:10007:1] HTTPS www.google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:58942 -> 142.250.206.228:443
+08/18/2021-01:17:06.773185  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:40586 -> 175.213.35.39:80
+08/18/2021-01:17:06.773185  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:40586 -> 175.213.35.39:80
+08/18/2021-01:17:06.888024  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:40586 -> 175.213.35.39:80
+08/18/2021-01:17:06.888024  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:40586 -> 175.213.35.39:80
+08/18/2021-01:17:48.574787  [**] [1:10006:1] HTTPS www.youtube.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:55216 -> 142.250.207.110:443
+08/18/2021-01:18:10.163079  [**] [1:10004:1] HTTPS github.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:41494 -> 15.164.81.167:443
+08/18/2021-01:18:11.504420  [**] [1:10004:1] HTTPS github.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:56026 -> 13.209.163.61:443
+08/18/2021-01:18:11.880573  [**] [1:10004:1] HTTPS github.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:47918 -> 140.82.112.25:443
+08/18/2021-01:18:19.510128  [**] [1:10005:1] HTTPS gitlab.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:48560 -> 172.65.251.78:443
+08/18/2021-01:18:20.906386  [**] [1:10005:1] HTTPS gitlab.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:58878 -> 151.101.130.49:443
+08/18/2021-01:18:48.354527  [**] [1:10008:1] HTTPS www.naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:44384 -> 125.209.222.142:443
+08/18/2021-01:18:49.150691  [**] [1:10008:1] HTTPS www.naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:45162 -> 223.130.195.208:443
+08/18/2021-01:18:56.284824  [**] [1:10009:1] HTTPS www.ebsi.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:45420 -> 175.106.102.237:443
+08/18/2021-01:18:56.701478  [**] [1:10009:1] HTTPS www.ebsi.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:45424 -> 175.106.102.237:443
+08/18/2021-01:18:56.702088  [**] [1:10009:1] HTTPS www.ebsi.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:45426 -> 175.106.102.237:443
+08/18/2021-01:18:56.747102  [**] [1:10009:1] HTTPS www.ebsi.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:45428 -> 175.106.102.237:443
+08/18/2021-01:18:56.758726  [**] [1:10009:1] HTTPS www.ebsi.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:45434 -> 175.106.102.237:443
+08/18/2021-01:18:56.770204  [**] [1:10009:1] HTTPS www.ebsi.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:45432 -> 175.106.102.237:443
+08/18/2021-01:18:56.775948  [**] [1:10009:1] HTTPS www.ebsi.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:45430 -> 175.106.102.237:443
+08/18/2021-01:19:03.913285  [**] [1:10010:1] HTTPS www.kitribob.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:46440 -> 52.78.17.192:443
+08/18/2021-01:19:24.722996  [**] [1:10012:1] HTTPS www.daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:33864 -> 203.133.167.81:443
+08/18/2021-01:19:28.467789  [**] [1:10010:1] HTTPS www.kitribob.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:60520 -> 3.37.43.53:443
+08/18/2021-01:19:33.058784  [**] [1:10012:1] HTTPS www.daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:33972 -> 203.133.167.81:443
+08/18/2021-01:19:33.086340  [**] [1:10012:1] HTTPS www.daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:33974 -> 203.133.167.81:443
+08/18/2021-01:19:35.024038  [**] [1:10012:1] HTTPS www.daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:33976 -> 203.133.167.81:443
+08/18/2021-01:29:26.127393  [**] [1:10012:1] HTTPS www.daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:59546 -> 211.231.99.80:443
+08/18/2021-01:29:33.915158  [**] [1:10012:1] HTTPS www.daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:59604 -> 211.231.99.80:443
+08/18/2021-01:29:33.947559  [**] [1:10012:1] HTTPS www.daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:59606 -> 211.231.99.80:443
+08/18/2021-01:29:35.898348  [**] [1:10012:1] HTTPS www.daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:59608 -> 211.231.99.80:443
+08/18/2021-01:32:00.067247  [**] [1:10011:1] HTTPS www.nate.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:58302 -> 120.50.131.112:443
+08/18/2021-01:32:00.221974  [**] [1:10011:1] HTTPS www.nate.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:58306 -> 120.50.131.112:443
+08/18/2021-01:32:00.237629  [**] [1:10011:1] HTTPS www.nate.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:58308 -> 120.50.131.112:443
+08/18/2021-01:32:00.266455  [**] [1:10011:1] HTTPS www.nate.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:58310 -> 120.50.131.112:443
+08/18/2021-01:32:00.272872  [**] [1:10011:1] HTTPS www.nate.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:58312 -> 120.50.131.112:443
+08/18/2021-01:32:00.579962  [**] [1:10011:1] HTTPS www.nate.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:58338 -> 120.50.131.112:443
+08/18/2021-01:32:00.693992  [**] [1:10011:1] HTTPS www.nate.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:58350 -> 120.50.131.112:443
+08/18/2021-01:32:00.791276  [**] [1:10011:1] HTTPS www.nate.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:58354 -> 120.50.131.112:443
+08/18/2021-01:32:00.914603  [**] [1:10011:1] HTTPS www.nate.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:58358 -> 120.50.131.112:443
+08/18/2021-01:32:00.999669  [**] [1:10011:1] HTTPS www.nate.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:58360 -> 120.50.131.112:443
+08/18/2021-01:32:01.002824  [**] [1:10011:1] HTTPS www.nate.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:58362 -> 120.50.131.112:443
+08/18/2021-01:32:01.331919  [**] [1:10011:1] HTTPS www.nate.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:58376 -> 120.50.131.112:443
+08/18/2021-01:32:01.368867  [**] [1:10011:1] HTTPS www.nate.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:58378 -> 120.50.131.112:443
+08/18/2021-01:32:01.392424  [**] [1:10011:1] HTTPS www.nate.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:58380 -> 120.50.131.112:443
+08/18/2021-01:32:11.696850  [**] [1:10011:1] HTTPS www.nate.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:58422 -> 120.50.131.112:443
+08/18/2021-01:32:12.063303  [**] [1:10011:1] HTTPS www.nate.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:58430 -> 120.50.131.112:443
+08/18/2021-01:32:12.098079  [**] [1:10011:1] HTTPS www.nate.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:58432 -> 120.50.131.112:443
+08/18/2021-01:32:16.892081  [**] [1:10007:1] HTTPS www.google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:38028 -> 142.250.76.132:443
+08/18/2021-01:32:16.892081  [**] [1:10007:1] HTTPS www.google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:38028 -> 142.250.76.132:443
+08/18/2021-01:32:45.558141  [**] [1:10015:1] HTTPS zum.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:60522 -> 52.84.166.124:443
+08/18/2021-01:32:45.891696  [**] [1:10015:1] HTTPS zum.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:42020 -> 112.175.191.62:443
+08/18/2021-01:32:45.984836  [**] [1:10015:1] HTTPS zum.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:53934 -> 121.189.40.4:443
+08/18/2021-01:32:45.985778  [**] [1:10015:1] HTTPS zum.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:53932 -> 121.189.40.4:443
+08/18/2021-01:32:46.028463  [**] [1:10015:1] HTTPS zum.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:46716 -> 54.230.155.17:443
+08/18/2021-01:32:46.028594  [**] [1:10015:1] HTTPS zum.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:46714 -> 54.230.155.17:443
+08/18/2021-01:32:46.666379  [**] [1:10015:1] HTTPS zum.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:50690 -> 54.230.155.116:443
+08/18/2021-01:32:46.962093  [**] [1:10015:1] HTTPS zum.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:41118 -> 121.189.38.123:443
+08/18/2021-01:32:46.973134  [**] [1:10015:1] HTTPS zum.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:41116 -> 121.189.38.123:443
+08/18/2021-01:32:47.082262  [**] [1:10015:1] HTTPS zum.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:42062 -> 112.175.191.62:443
+08/18/2021-01:32:47.103574  [**] [1:10015:1] HTTPS zum.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:42064 -> 112.175.191.62:443
+08/18/2021-01:32:47.111794  [**] [1:10015:1] HTTPS zum.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:42066 -> 112.175.191.62:443
+08/18/2021-01:32:47.232337  [**] [1:10015:1] HTTPS zum.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:42068 -> 112.175.191.62:443
+08/18/2021-01:32:47.541991  [**] [1:10015:1] HTTPS zum.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:42074 -> 112.175.191.62:443
+08/18/2021-01:32:48.114768  [**] [1:10015:1] HTTPS zum.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:58474 -> 112.175.191.98:443
+08/18/2021-01:32:48.115319  [**] [1:10015:1] HTTPS zum.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:42082 -> 112.175.191.62:443
+08/18/2021-01:32:48.222336  [**] [1:10015:1] HTTPS zum.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:41146 -> 121.189.38.123:443
+08/18/2021-01:32:48.331598  [**] [1:10015:1] HTTPS zum.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:42094 -> 112.175.191.62:443
+08/18/2021-01:32:52.273651  [**] [1:10016:1] HTTPS www.bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:49896 -> 13.107.21.200:443
+08/18/2021-01:34:21.341367  [**] [1:10015:1] HTTPS zum.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:60708 -> 52.84.166.124:443
+08/18/2021-01:34:21.541849  [**] [1:10015:1] HTTPS zum.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:42206 -> 112.175.191.62:443
+08/18/2021-01:34:21.553672  [**] [1:10015:1] HTTPS zum.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:54118 -> 121.189.40.4:443
+08/18/2021-01:34:21.777890  [**] [1:10015:1] HTTPS zum.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:54132 -> 121.189.40.4:443
+08/18/2021-01:34:21.858581  [**] [1:10015:1] HTTPS zum.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:41282 -> 121.189.38.123:443
+08/18/2021-01:34:21.906583  [**] [1:10015:1] HTTPS zum.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:44256 -> 13.225.131.60:443
+08/18/2021-01:34:21.908870  [**] [1:10015:1] HTTPS zum.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:44254 -> 13.225.131.60:443
+08/18/2021-01:34:21.909175  [**] [1:10015:1] HTTPS zum.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:41284 -> 121.189.38.123:443
+08/18/2021-01:34:22.343687  [**] [1:10015:1] HTTPS zum.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:42234 -> 112.175.191.62:443
+08/18/2021-01:34:22.804242  [**] [1:10015:1] HTTPS zum.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:36808 -> 13.225.109.120:443
+08/18/2021-01:34:22.811786  [**] [1:10015:1] HTTPS zum.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:42238 -> 112.175.191.62:443
+08/18/2021-01:34:22.858812  [**] [1:10015:1] HTTPS zum.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:42242 -> 112.175.191.62:443
+08/18/2021-01:34:22.922294  [**] [1:10015:1] HTTPS zum.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:42246 -> 112.175.191.62:443
+08/18/2021-01:34:23.548225  [**] [1:10015:1] HTTPS zum.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:42248 -> 112.175.191.62:443
+08/18/2021-01:34:24.144518  [**] [1:10015:1] HTTPS zum.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:42250 -> 112.175.191.62:443
+08/18/2021-01:34:25.147744  [**] [1:10015:1] HTTPS zum.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:42252 -> 112.175.191.62:443
+08/18/2021-01:34:25.998612  [**] [1:10015:1] HTTPS zum.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:58644 -> 112.175.191.98:443
+08/18/2021-01:37:04.821332  [**] [1:10004:1] HTTPS github.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:56448 -> 52.78.231.108:443
+08/18/2021-01:37:04.821332  [**] [1:10004:1] HTTPS github.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.0.19:56448 -> 52.78.231.108:443
